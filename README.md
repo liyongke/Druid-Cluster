@@ -1,4 +1,4 @@
-# NetflowAnalyzer
+# Druid + HDFS + Mysql Cluster Setup
 
 ## 1. Download
 
